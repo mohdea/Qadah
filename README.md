@@ -1,0 +1,2 @@
+# Qadah
+Eliminate all prayers
